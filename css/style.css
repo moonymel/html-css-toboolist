@@ -62,6 +62,7 @@ main {
     padding:50px;
     border-radius: 5px;
     margin-top:3px;
+    margin-bottom:50px;
 }
 
 .mainlist {
@@ -98,4 +99,35 @@ main {
     padding:1px 4px;
     font-size:10px;
     margin-right:5px;  
+}
+
+.tag {
+    font-size:10px;
+    color:white;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+
+.blue {
+    background-color:#63bfff;
+}
+
+.purple {
+    background-color: #ad75cc;
+}
+
+.green {
+    background-color: #4ec075;
+}
+
+.orange {
+    background-color: #ffb342;
+}
+
+.pink {
+    background-color: #e564b4;
+}
+
+.lime {
+    background-color: #aadb37;
 }

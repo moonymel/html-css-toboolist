@@ -69,6 +69,33 @@ main {
     font-family:Open Sans, sans-serif;
     font-size:20px;
     font-weight: bold;
-    line-height:60px;
 }
 
+.singlelist {
+    list-style-type: none;
+    font-size:15px;
+    font-weight: normal;
+    line-height:30px;
+}
+
+.box-singlelist {
+    margin-bottom:20px;
+}
+
+.check {
+    color:green;
+    border:1px solid green;
+    border-radius: 50%;
+    padding:1px 4px;
+    font-size:10px;
+    margin-right:5px;
+}
+
+.n-check {
+    color:red;
+    border:1px solid red;
+    border-radius: 50%;
+    padding:1px 4px;
+    font-size:10px;
+    margin-right:5px;  
+}

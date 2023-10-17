@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color:white;
+    padding:20px;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.titolo-header {
+    font-family:Open Sans, sans-serif;
+    font-size:40px;
+    font-weight: bolder;
+    vertical-align: middle;
+    padding-left:5px;
+}
